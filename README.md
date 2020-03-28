@@ -4,7 +4,7 @@
 
 | Topic Name | Link |
 | ----------- | ----------- |
-| read1 | [read01](https://muna-jebril.github.io/reading-notes/.) |
+| read1 | [read01]https://muna-jebril.github.io/readingNotes301/.) |
 
 
 

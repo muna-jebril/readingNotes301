@@ -6,3 +6,4 @@ Pair programming touches on all four skills: developers explain out loud what th
 2. Engaged collaboration
 
 3. Learning from fellow students
+

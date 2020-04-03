@@ -7,3 +7,24 @@ Pair programming touches on all four skills: developers explain out loud what th
 
 3. Learning from fellow students
 
+## javaScript and jQuery
+HTML 5  EVENTS :
+Events  are the browsers way of telling  whensomething has happened (like  when  button has been clicked).
+Binding is the process of stating which event you are waiting to happen and which element you are waiting for that event to happen upon.
+When an event occurs on an element, it can trigger a JavaScript function. When this function then changes the web page in some way, it feels interactive because it has responded to the user.
+You can use event delegation to monitor for events
+that happen on all of the children of an element.
+The most commonly used events are W3C DOM
+events, although there are others in the HTMLS
+specification as well as browser-specific events.
+  
+
+  ## JQery
+  simple way to achieve a variety of common
+JavaScript tasks quickly and consistently, across all major
+browsers and without any fallback code needed
+ we should include the java script file in the end of the body  
+ WHY USE JQUERY? 
+ bec it`s easier and if u have a code and write in in pure Js and write the same code with jqery it would be much easier and simplier and less lines of code 
+   the clone methode we use it to copyy  
+   we can change the dimantion by using .hight and .width 
